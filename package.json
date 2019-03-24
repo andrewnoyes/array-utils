@@ -1,6 +1,6 @@
 {
   "name": "array-reorder",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Reorder an item in an array",
   "main": "dist",
   "repository": "https://github.com/andrewnoyes/array-reorder",
