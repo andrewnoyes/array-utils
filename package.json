@@ -1,6 +1,6 @@
 {
   "name": "@andrewnoyes/array-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Collection of array utility functions",
   "main": "dist",
   "repository": "https://github.com/andrewnoyes/array-utils",
