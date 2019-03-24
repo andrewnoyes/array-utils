@@ -1,0 +1,21 @@
+{
+  "name": "array-reorder",
+  "version": "1.0.0",
+  "description": "Reorder an item in an array",
+  "main": "dist",
+  "repository": "https://github.com/andrewnoyes/array-reorder",
+  "author": "andrewnoyes",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --require ts-node/register test/**/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.4.2",
+    "@types/mocha": "^5.2.6",
+    "assert": "^1.4.1",
+    "mocha": "^6.0.2",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  }
+}
