@@ -1,5 +1,5 @@
 {
-  "name": "array-reorder",
+  "name": "@andrewnoyes/array-reorder",
   "version": "0.0.1",
   "description": "Reorder an item in an array",
   "main": "dist",
