@@ -3,7 +3,10 @@ Collection of various array utility functions
 
 ## Installation
 ```sh
+// npm
 npm install @andrewnoyes/array-utils --save
+
+// yarn
 yarn add @andrewnoyes/array-utils
 ```
 
