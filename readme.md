@@ -1,5 +1,5 @@
 # array-utils
-Collection of various array utility functions
+Few random array utils
 
 ## Installation
 ```sh
